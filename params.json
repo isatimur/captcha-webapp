@@ -1,0 +1,6 @@
+{
+  "name": "Simple-webapp",
+  "tagline": "Captcha web app",
+  "body": "### Welcome to Captcha webapp.\r\nThis project is just an example of usage [simple captcha library](http://simplecaptcha.sourceforge.net/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
